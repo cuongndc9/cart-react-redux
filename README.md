@@ -21,4 +21,3 @@ $ npm start
 
 ![](https://img.shields.io/github/license/cuongw/cart-react-redux.svg?style=flat-square)
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nStay curious. Keep learning. Keep growing.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->
